@@ -309,13 +309,13 @@ resultado_suma = sumar_fila(matriz, fila)
 
 # Imprimimos el resultado
 if resultado_suma != None:
-    print("La suma de los elementos de la fila " +  str(columna) + " es: " + str(resultado_suma))
+    print("La suma de los elementos de la fila " +  str(fila) + " es: " + str(resultado_suma))
 
 ```
 :checkered_flag: **EL PROGRAMA EJECUTADO SE VE ASI**
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/KjZ9NyW4/image.png alt="" width="700" height="auto"/></br>
+<figure> <img src="https://i.postimg.cc/X7WCnk5n/image.png alt="" width="700" height="auto"/></br>
 <figcaption><b> </b></figcaption></figure>
 </div>
 
